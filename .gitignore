@@ -396,3 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Code/XamlNotes/WpfNotes/appsettings.json
+/Code/XamlNotes/WinAppSdkNotes/appsettings.json

@@ -1,0 +1,16 @@
+﻿global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.UI;
+global using Microsoft.UI.Xaml;
+global using Microsoft.UI.Xaml.Controls;
+global using Microsoft.UI.Xaml.Data;
+global using Microsoft.UI.Xaml.Markup;
+global using Microsoft.UI.Xaml.Media;
+global using Microsoft.UI.Xaml.Shapes;
+global using WinAppSdkNotes.Controls;
+global using Windows.UI;
+global using XamlNotes;
+global using XamlNotes.Models;
+global using XamlNotes.Provider;
+global using ColorHelper = CommunityToolkit.WinUI.Helpers.ColorHelper;
+global using Path = Microsoft.UI.Xaml.Shapes.Path;
