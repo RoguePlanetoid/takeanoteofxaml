@@ -1,0 +1,10 @@
+﻿global using Comentsys.Toolkit.Binding;
+global using Microsoft.Data.Sqlite;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Collections.ObjectModel;
+global using System.ComponentModel.DataAnnotations;
+global using XamlNotes.Bindings;
+global using XamlNotes.Config;
+global using XamlNotes.Models;
+global using XamlNotes.Provider;

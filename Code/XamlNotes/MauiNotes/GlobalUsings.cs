@@ -1,0 +1,11 @@
+﻿global using CommunityToolkit.Maui;
+global using CommunityToolkit.Maui.Views;
+global using MauiNotes.Controls;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Maui.Controls.Shapes;
+global using System.Globalization;
+global using XamlNotes;
+global using XamlNotes.Config;
+global using XamlNotes.Models;
+global using XamlNotes.Provider;
+global using Path = Microsoft.Maui.Controls.Shapes.Path;
