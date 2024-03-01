@@ -4,7 +4,7 @@
 
 Here you can find Slides, Code for the Demo and Links for my presentation **Take a Note of XAML with .NET 8**
 
-![Take a Note of XAML with .NET 8](Assets/take-a-note-of-xaml-with-net8.png)
+![Take a Note of XAML with .NET 8](Assets/take-a-note-of-xaml-with-net8-ddd-north.png)
 
 ## Links
 
